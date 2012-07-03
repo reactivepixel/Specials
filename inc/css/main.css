@@ -1,5 +1,7 @@
-.itemTitle{
-	padding-top:2em;
-	text-align:right;
-
+dl, dd, dt{
+	margin		: 0;
+	padding		: 0;
+}
+#detail img{
+	width		: 100%;
 }
